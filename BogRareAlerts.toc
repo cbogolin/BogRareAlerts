@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: BogRareAlerts
+## Notes: Shows an on-screen alert when a rare mob comes into range.
+## Author: Chan
+## Version: 0.1
+## SavedVariables: BogRareAlertsDB
+
+BogRareAlerts.lua
